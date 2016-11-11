@@ -3,7 +3,6 @@
 ## Tasks / roles
 
 - postgresql
-- postgis
-- pgadmin4
+- postgis (depends on postgresql)
 - reverse proxy (apache or nginx?)
-
+- pgadmin4 (depends on postgresql and reverse proxy)
