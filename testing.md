@@ -8,7 +8,7 @@ Please see the travis file in https://github.com/openearth-stack/postgresql/blob
 
 # Test setup
 
-Git clone repositories:
+Git clone repositories (e.g.):
 ```
  git clone https://github.com/openearth-stack/postgresql.git
  git clone https://github.com/openearth-stack/general.git
