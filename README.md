@@ -8,10 +8,11 @@
 - pgadmin4 (depends on postgresql and reverse proxy)
 
 ### web
-- reverse proxy (apache or nginx?)
+- geoserver
+- reverse proxy (apache or nginx?): https://github.com/openearth/stack/blob/master/playbook.yml nginx
 - web frameworks (pyramid, django etc)
 
 ### computing
 - python
-- jupyter notbook (depends on python and reverse proxy)
+- jupyter notebook (depends on python and reverse proxy)
 
