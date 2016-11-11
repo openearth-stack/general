@@ -18,5 +18,5 @@
 
 ### computing
 - python
-  - pyhton 3.5
+  - version 3.5 (or newest), with pyenv?
   - includes jupyter notebook 
