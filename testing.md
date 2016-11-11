@@ -7,6 +7,7 @@ Please see the travis file in https://github.com/openearth-stack/postgresql/blob
 
 
 # Test setup
+Install Ubuntu 16.06 SERVER
 
 Git clone repositories (e.g.):
 ```
