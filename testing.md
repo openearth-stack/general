@@ -43,5 +43,5 @@ docker run -it quay.io/travisci/travis-ruby /bin/bash
 
 Switch to the travis user:
 ```
-su - travis
+sudo su travis
 ```
