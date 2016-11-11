@@ -40,3 +40,8 @@ select an image from Quay.io. If you're not using a language-specific image pick
 ```
 docker run -it quay.io/travisci/travis-ruby /bin/bash
 ```
+
+Switch to the travis user:
+```
+su - travis
+```
