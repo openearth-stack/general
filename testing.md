@@ -9,11 +9,6 @@ Please see the travis file in https://github.com/openearth-stack/postgresql/blob
 # Test setup
 Install Ubuntu 16.06 SERVER
 
-Git clone repositories (e.g.):
-```
- git clone https://github.com/openearth-stack/postgresql.git
- git clone https://github.com/openearth-stack/general.git
-```
 
 ## install docker
 ```
@@ -45,4 +40,10 @@ docker run -it quay.io/travisci/travis-ruby /bin/bash
 Switch to the travis user:
 ```
 sudo su travis
+```
+
+Git clone repositories (e.g.):
+```
+ git clone https://github.com/openearth-stack/postgresql.git
+ git clone https://github.com/openearth-stack/general.git
 ```
