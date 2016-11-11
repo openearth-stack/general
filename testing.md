@@ -14,7 +14,7 @@ Git clone repositories:
  git clone https://github.com/openearth-stack/general.git
 ```
 
- ## install docker
+## install docker
 ```
  sudo apt-get update
  sudo apt-get install docker.io
