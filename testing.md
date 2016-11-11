@@ -26,11 +26,16 @@ Git clone repositories (e.g.):
 lid worden van de dockergroep
 ```
 vigr
-docker:x:117:tester
+```
+Add username to docker:
+```
+docker:x:117:USERNAME
+```
+create shadow group
+```
 vigr -s
 ```
 # open new terminal
-
 select an image from Quay.io. If you're not using a language-specific image pick travis-ruby. Open a terminal and start an interactive Docker session using the image URL:
 ```
 docker run -it quay.io/travisci/travis-ruby /bin/bash
