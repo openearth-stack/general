@@ -44,7 +44,7 @@ sudo su travis
 
 Git clone repositories (e.g.):
 ```
- cd builds/
+ cd ~/builds/
  git clone https://github.com/openearth-stack/postgresql.git
  git clone https://github.com/openearth-stack/general.git
 ```
