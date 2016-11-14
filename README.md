@@ -1,5 +1,8 @@
 # general
 
+For a general vision on what we are doing here, please read https://publicwiki.deltares.nl/display/OET/PostgreSQL+deployment+in+Azure.
+In short, we want to assists data scientist in getting a Postgres-PostGIS database up-and-running in the mininmal time possible. So the users can spend their time on data collection, data modelling, data analytics and data publication.
+
 ## Tasks / roles
 
 ### database
