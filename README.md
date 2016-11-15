@@ -13,7 +13,7 @@ In short, we want to assists data scientist in getting a Postgres-PostGIS databa
   - Thijs
 
 ### web
-- geoserver
+- geoserver + tomcat
   - Gerrit + Erna
 - nginx
   - reverse proxy : https://github.com/openearth/stack/blob/master/playbook.yml nginx
